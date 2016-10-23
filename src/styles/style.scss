@@ -1,0 +1,15 @@
+/*
+
+CONST
+
+*/
+
+$bg-color: #1c1c1c;
+$txt-color: #f1f1f1;
+$font-stack: Helvetica, sans-serif;
+
+body{
+  background-color: $bg-color;
+  font-family: $font-stack;
+  color: $txt-color;
+}

@@ -3,8 +3,8 @@ A template for webpack based es6 projects, including useful tools and configurat
 
 ## Usage
 1. Use Node.js version defined in .nvmrc file
-  -`nvm install`
-  -`nvm use`
+  -`nvm install` installs the Node.js in the defined version
+  -`nvm use` uses the Node.js version defined
 2. Install npm packages from package.js
   -`npm install`
 3. Change package attributes (add your name, version, repo)
